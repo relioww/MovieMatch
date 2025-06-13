@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/friendsList"
+        android:title="@string/friends_list"
+        android:icon="@drawable/friends_icon"/>
+    <item
+        android:id="@+id/friendRequests"
+        android:title="@string/friend_requests"
+        android:icon="@drawable/friend_requests_icon"/>
+    <item
+        android:id="@+id/returnHome"
+        android:title="@string/friends_return_home"
+        android:icon="@drawable/home_icon"/>
+</menu>

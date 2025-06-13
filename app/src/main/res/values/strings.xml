@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">MovieMatch</string>
+
+    <string name="username_field_hint">Имя пользователя</string>
+    <string name="password_field_hint">Пароль</string>
+    <string name="confirm_password_field_hint">Подтвердите пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="registration_button">Регистрация</string>
+    <string name="register_button">Зарегистрироваться</string>
+    <string name="check_password_error">Проверьте правильность ввода пароля</string>
+    <string name="incorrect_login_data">Неверный логин или пароль</string>
+    <string name="registration_error">Ошибка! Возможно, указанное имя пользователя уже занято</string>
+    <string name="username_too_short">Имя пользователя должно быть не менее 5 символов</string>
+    <string name="password_too_short">Пароль должен быть не менее 8 символов</string>
+    <string name="go_back_button">Вернуться назад</string>
+
+    <string name="search">Поиск</string>
+    <string name="search_hint">Введите запрос</string>
+    <string name="search_button">Искать</string>
+
+    <string name="film_on_kinopoisk">Фильм на Кинопоиске</string>
+    <string name="leave_review">Оставить отзыв</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="remove_from_favorites">Удалить из избранных</string>
+    <string name="film_release_year">Год: %1$s</string>
+    <string name="kinopoisk_rating">Рейтинг Кинопоиска: %.1f</string>
+    <string name='kinopoisk_no_rating'>Рейтинг Кинопоиска не определён.</string>
+    <string name="film_description_title">Описание: </string>
+    <string name="film_no_description">Нет описания.</string>
+    <string name="added_to_favorites">Фильм добавлен в избранные</string>
+    <string name="removed_from_favorites">Фильм удалён из избранных</string>
+    <string name="film_page_go_back">Вернуться назад</string>
+    <string name="favorites_error">Произошла ошибка</string>
+
+    <string name="favorites_go_back">Вернуться назад</string>
+
+    <string name="rate_film_title">Оцените фильм:</string>'
+    <string name="film_commentary">Ваш комментарий (что понравилось / не понравилось)</string>
+    <string name="send_review">Оставить отзыв</string>
+    <string name="review_cancel">Отмена</string>
+    <string name="review_left">Вы оставили отзыв</string>
+    <string name="review_error">Не смогли оставить отзыв</string>
+
+    <string name="about">О приложении</string>
+
+    <string name="profile">Профиль</string>
+    <string name="username">%1$s</string>
+    <string name="user_id">ID: %1$d</string>
+    <string name="friends">Друзья</string>
+    <string name="films_picker">Подобрать фильм для просмотра</string>
+    <string name="favorite_films">Избранное</string>
+    <string name="logout_dialog_title">Подтвердите действие</string>
+    <string name="logout_dialog_message">Вы действительно хотите выйти?</string>
+    <string name="logout_confirm">Выйти</string>
+    <string name="logout_cancel">Отмена</string>
+
+    <string name="friends_return_home">Назад</string>
+    <string name="friends_list">Друзья</string>
+    <string name="friend_requests">Заявки в друзья</string>
+    <string name="delete_friend">Удалить из друзей</string>
+    <string name="friend_request_username">Имя пользователя</string>
+    <string name="send_friend_request">Отправить</string>
+    <string name="accept_friend_request">Принять</string>
+    <string name="friend_request_sent">Запрос отправлен</string>
+    <string name="friend_request_error">Ошибка при отправке запроса</string>
+
+    <string name="movie_picker_title">Подбор фильмов</string>
+    <string name="choose_friends">Выбрать друзей для совместного просмотра:</string>
+    <string name="choose_friends_button">Выбрать</string>
+    <string name="film_preferences_hint">Дополнительные пожеланию по подбору</string>
+    <string name="pick_films_button">Создать подборку</string>
+    <string name="picker_main_go_back">Вернуться назад</string>
+    <string name="picker_fragment_loading">Создаём подборку...</string>
+    <string name="picker_results_go_back">Вернуться назад</string>
+
+    <string name="choose_friends_ok">OK</string>
+    <string name="choose_friends_cancel">Отмена</string>
+</resources>
