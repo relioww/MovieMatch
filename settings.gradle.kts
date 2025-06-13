@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "KinoMatch"
+rootProject.name = "MovieMatch"
 include(":app")
  
